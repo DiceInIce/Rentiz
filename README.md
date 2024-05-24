@@ -1,2 +1,1 @@
-"# Rentiz" 
-"# Rentiz" 
+https://dicerentiz.netlify.app
